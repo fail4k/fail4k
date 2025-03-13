@@ -11,6 +11,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="OpenAPI"
+    style="filter: invert(1)"
 /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"
   ><img
@@ -18,6 +19,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="Linux"
+    style="filter: invert(1)"
 /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"
   ><img
@@ -25,6 +27,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="Docker"
+    style="filter: invert(1)"
 /></a>
 <a href="https://git-scm.com" target="_blank" rel="noreferrer"
   ><img
@@ -32,6 +35,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="Git"
+    style="filter: invert(1)"
 /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"
   ><img
@@ -39,6 +43,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="Python"
+    style="filter: invert(1)"
 /></a>
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"
   ><img
@@ -46,6 +51,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="C++"
+    style="filter: invert(1)"
 /></a>
 </p>
 
@@ -58,6 +64,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="GitHub"
+    style="filter: invert(1)"
 /></a>
 <a href="https://discord.com/users/nightmare_awp" target="_blank" rel="noreferrer"
   ><img
