@@ -11,7 +11,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="OpenAPI"
-    style="fill: white;"
+    style="filter: opacity(0.5) drop-shadow(0 0 0 white);"
 /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"
   ><img
