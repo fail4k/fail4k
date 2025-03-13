@@ -11,7 +11,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="OpenAPI"
-    style="filter: brightness(0) invert(1); color: white;"
+    style="color: white;"
 /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"
   ><img
