@@ -1,16 +1,91 @@
-## Hi there 👋
+# 01101000 01101001, I am NixxMare!
 
-<!--
-**fail4k/fail4k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a middle developer on python and beginner fullstack developer.
 
-Here are some ideas to get you started:
+## My tech stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+<a href="https://www.openapis.org" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg"
+    width="36"
+    height="36"
+    alt="OpenAPI"
+/></a>
+<a href="https://www.linux.org" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linux.svg"
+    width="36"
+    height="36"
+    alt="Linux"
+/></a>
+<a href="https://www.docker.com" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+    width="36"
+    height="36"
+    alt="Docker"
+/></a>
+<a href="https://git-scm.com" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"
+    width="36"
+    height="36"
+    alt="Git"
+/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"
+    width="36"
+    height="36"
+    alt="Python"
+/></a>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cplusplus.svg"
+    width="36"
+    height="36"
+    alt="C++"
+/></a>
+</p>
+
+## My socials and contacts:
+
+<p align="left">
+<a href="https://github.com/fail4k" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    width="36"
+    height="36"
+    alt="GitHub"
+/></a>
+<a href="https://discord.com/users/nightmare_awp" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+    width="36"
+    height="36"
+    alt="Discord"
+/></a>
+</p>
+
+## My GitHub stats:
+
+<p align="center">
+<table>
+  <tr>
+    <td>
+      <img
+        width="550px"
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=polioan&hide_border=true&layout=compact&hide_title=true&show_icons=true&theme=dark&icon_color=5194f0&bg_color=0d1117"
+      />
+    </td>
+    <td>
+      <img
+        width="550px"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=polioan&hide=html&layout=compact&hide_border=true&hide_title=true&theme=dark&icon_color=5194f0&bg_color=0d1117"
+      />
+    </td>
+  </tr>
+</table>
+</p>
