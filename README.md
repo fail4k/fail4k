@@ -49,6 +49,26 @@ I am a middle developer on python and beginner fullstack developer.
 /></a>
 </p>
 
+## My socials and contacts:
+
+<p align="left">
+<a href="https://github.com/fail4k" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    width="36"
+    height="36"
+    alt="GitHub"
+/></a>
+<a href="https://discord.com/users/nightmare_awp" target="_blank" rel="noreferrer"
+  ><img
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg"
+    width="36"
+    height="36"
+    alt="Discord"
+    style="filter: invert(1)"
+/></a>
+</p>
+
 ## My GitHub stats:
 
 <p align="center">
