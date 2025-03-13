@@ -11,7 +11,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="OpenAPI"
-    style="color: white;"
+    style="fill: white;"
 /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"
   ><img
@@ -19,7 +19,7 @@ I am a middle developer on python and beginner fullstack developer.
     width="36"
     height="36"
     alt="Linux"
-    style="filter: invert(1)"
+    style="fill: white;"
 /></a>
 <a href="https://www.docker.com" target="_blank" rel="noreferrer"
   ><img
