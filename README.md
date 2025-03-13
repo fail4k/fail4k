@@ -7,11 +7,11 @@ I am a middle developer on python and beginner fullstack developer.
 <p align="left">
 <a href="https://www.openapis.org" target="_blank" rel="noreferrer"
   ><img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openapiinitiative.svg"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/openapiinitiative.svg"
     width="36"
     height="36"
     alt="OpenAPI"
-    style="filter: invert(1)"
+    style="filter: brightness(0) invert(1)"
 /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"
   ><img
@@ -60,11 +60,11 @@ I am a middle developer on python and beginner fullstack developer.
 <p align="left">
 <a href="https://github.com/fail4k" target="_blank" rel="noreferrer"
   ><img
-    src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+    src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/github.svg"
     width="36"
     height="36"
     alt="GitHub"
-    style="filter: invert(1)"
+    style="filter: brightness(0) invert(1)"
 /></a>
 <a href="https://discord.com/users/nightmare_awp" target="_blank" rel="noreferrer"
   ><img
