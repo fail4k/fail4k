@@ -1,6 +1,6 @@
 # 01101000 01101001, I am NixxMare!
 
-I am a middle developer on python and beginner fullstack developer.
+I am a middle developer on python and beginner fullstack developer.(my nickname in ddnet - fail4k)
 
 ## My tech stack:
 
