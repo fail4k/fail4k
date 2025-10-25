@@ -1,4 +1,4 @@
-# 01101000 01101001, I am NixxMare!
+# 01101000 01101001, I am faik4k!
 
 I am a middle developer and beginner fullstack developer.(my nickname in ddnet - fail4k)
 
